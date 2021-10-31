@@ -11,7 +11,7 @@ count = 5
 # prints a message multiple times
 def print_many_times(message, times):
     for _ in range(times):
-        print(hello)
+        print(message)
 
 # print message once
 print(hello)
